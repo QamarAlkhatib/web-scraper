@@ -7,6 +7,8 @@ authors = ["Qamar <qalkhatib0@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 jupyterlab = "^3.2.4"
+requests = "^2.26.0"
+bs4 = "^0.0.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
